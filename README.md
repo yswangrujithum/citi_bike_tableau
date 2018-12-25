@@ -46,12 +46,19 @@ Pershing Square North is the most busiest station for both summer and winter sea
 ![winter_user](Images/winter_user.png)
 ![summer_user](Images/summer_user.png)
 
-Subscribers are the dominant users for Citi Bike for both summer and winter. 
+Subscribers are the dominant users for Citi Bike for both summer and winter. The number of both customers and subscribers increases during the summer compare to the winter season. 
 
+#### Gender for Citi Bike
 
+![winter_gender](Images/winter_gender.png)
+![summer_gender](Images/summer_gender.png)
+
+As anticipated, Male is the dominent gender for Citi Bike. However, the amount of female bikers increase sharply for summer in compare to winter season. 
 
 
 ## Obstacles
+* The only limiting factor for this project is the time. Data from other city bike company should be obtained in order to compare them closely. 
+* Certain data is too ambiguous. For instance, participants with the age of 130 years old has riden the bike. 
 * The files were too large to save on the public Tableau, so I have to seperate the two datasets and work on them seperately. 
 * All of the files were to large to upload onto the GitHub. 
 
